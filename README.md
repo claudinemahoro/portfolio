@@ -11,10 +11,10 @@ This portfolio has four sections
 ## Languages used
 I just used HTML and CSS
 ## Setup/installation requirements
-You only need internet and a browser in your machine to access tis portfolio
+You only need internet and a browser in your machine to access this portfolio
 * Open your browser
-* Go to the link of this portfolio
-* You can now see everything there
+* Go to the link (found below) of this portfolio
+* There you are! you can now see the portfolio
 ## Link to live site
-You can access this portfolio on github pages via this link
+You can access this portfolio on github pages via this link:
 https://claudinemahoro.github.io/portfolio/

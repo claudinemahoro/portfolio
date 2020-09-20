@@ -1,0 +1,121 @@
+body{
+  overflow: scroll;
+  background: rgb(255, 255, 255), 0.5;
+  background: rgba(255, 255, 255, 0.5);
+  color: black;
+  font-weight: bold;
+}
+.home{
+  position: relative;
+  text-align: center;
+  color: #050A30;
+  font-size: 30px;
+}
+.home>img{
+width: 130%;
+height: 100%;
+}
+#navigation{
+  position: absolute;
+  top: 8px;
+  right: 0;
+}
+#logo{
+  position: absolute;
+  top: 35%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+}
+#navigation ul{
+  text-align: right;
+}
+#navigation ul>li{
+  display:inline-flex;
+  margin-right: 5px;
+  justify-content: space-between;
+}
+#navigation ul>li>a{
+  text-decoration: none;
+  color:#050A30;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#navigation ul>li>a:hover{
+  color: darkolivegreen;
+}
+.aboutme{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 22px;
+}
+#abouttext{
+  position: relative;
+  left: 25%;
+}
+#abouttitle{
+  position: absolute;
+  left: 5%;
+  top: 200%;
+}
+.projects{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 22px;
+}
+#xyprojects{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 130%;
+}
+#xyprojects img{
+  width: 300px;
+  height: 300px;
+}
+.projects h2{
+  display:flex;
+  justify-content: center;
+}
+.projects a{
+  color: black;
+  font-style: italic;
+}
+.projects a:hover{
+  color: darkolivegreen;
+}
+.contacts{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 22px;
+  background-image: url("https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80");
+  width: 130%;
+}
+.contacts h2,.contacts>p{
+  display:flex;
+  justify-content: center;
+}
+#xycontacts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#xycontacts img{
+  height: 40px;
+  width: 40px;
+}
+#phone,#mail{
+  display: flex;
+  flex-direction: column;
+}
+footer{
+  text-align: center;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 40px;
+  color:black;
+}
+h2{
+  text-transform: uppercase;
+}
+
+

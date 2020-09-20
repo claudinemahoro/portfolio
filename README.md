@@ -7,3 +7,5 @@ You only need internet and a browser in your machine to access tis portfolio
 * Open your browser
 * Go to the link of this portfolio
 * You can now see everything there
+## Link to live site
+You can access this portfolio on github pages via this link

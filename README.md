@@ -9,3 +9,4 @@ You only need internet and a browser in your machine to access tis portfolio
 * You can now see everything there
 ## Link to live site
 You can access this portfolio on github pages via this link
+https://claudinemahoro.github.io/portfolio/

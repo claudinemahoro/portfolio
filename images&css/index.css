@@ -66,11 +66,11 @@ height: 100%;
 #xyprojects{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   width: 130%;
 }
 #xyprojects img{
-  width: 300px;
+  width: 700px;
   height: 300px;
 }
 .projects h2{
